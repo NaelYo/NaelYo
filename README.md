@@ -1,10 +1,10 @@
-# 👋  Hello World 🌍, I'am Nathanael Christian 😎
+# 👋  Hello World 🌍, I'am Nathanael Christian
 <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611r5yedd0ikquok0c38oji0xwwdliubx64nb9y71p7&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 - 🎓 I’m graduated from <a href="https://smkkgb2.sch.id/">SMK Karya Guna Bhakti 2</a>
 - 👀 I’m interested in learning web technologies and enjoy exploring everything about data
-- ⚡ I’m currently learning about web technology for web development and software engineer
-- 🌱 **"from zero to at least not zero"**
+- 🔥 I’m currently learning about web technology for web development and software engineer
+- 🍀 **"To Be Happy :)"**
 
 ###  🌐 Social Media
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/elcodingg/)
